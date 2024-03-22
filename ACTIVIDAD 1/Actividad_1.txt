@@ -1,0 +1,19 @@
+Análisis de la Integración y el Impacto de las TIC en el Rendimiento Estudiantil
+
+Dataset 1: tIC PARA LA ENSEÑANZA
+Dataset 2: tenencia, Acceso, uso y servicios TIC
+Dataset 3: frecuencia de uso TIC
+Dataset 4: Situación academica
+URL: https://drive.google.com/drive/folders/1vw6fPj_pDEJoxZrC4ofxsM7UypzRonnL?usp=sharing
+Razon a elegir: Me interesa poder evaluar cómo el uso de las TIC en la enseñanza influye en el rendimiento académico de los estudiantes, Variables de interes: 
+
+Frecuencia de Uso: tiempo pasan los estudiantes utilizando las TIC para fines educativos.
+Tipo de Actividades TIC: actividades realizadas con las TIC.
+Accesibilidad de Recursos TIC: Disponibilidad de dispositivos y conexión a internet para los estudiantes en el hogar y en la institución educativa.
+Integración Curricular de las TIC: Grado en el que las TIC están incorporadas en el currículo y las prácticas de enseñanza.
+Rendimiento Académico: es la variable mas importante ya que representa la variable dependiente 
+
+
+
+
+
